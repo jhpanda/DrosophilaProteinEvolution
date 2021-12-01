@@ -9,9 +9,9 @@ Scripts and files in this repo:
   scripts and data to simulate evolutionary rates of protein sites involved in LIG binding 
 4. pyMKT
   scripts to do classic MKT test based on alternative CDS as input 
-5. Supplementary files for the paper \
+5. Supplementary files for the paper 
 6. asymMKfit.py \
-  script to do asymptotic MK test \
+  script to do asymptotic MK test 
 7. groups_gene.dat \
   genes in each dnds group as in "Supp file S2 Expression Level and Protein Length in each Gene Group.csv" \
   
