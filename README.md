@@ -13,7 +13,7 @@ Scripts and files in this repo:
 6. asymMKfit.py \
   script to do asymptotic MK test 
 7. groups_gene.dat \
-  genes in each dnds group as in "Supp file S2 Expression Level and Protein Length in each Gene Group.csv" \
+  genes in each dnds group as in "Supp file S2 Expression Level and Protein Length in each Gene Group.csv" 
   
 Reference:
 Intermolecular interactions drive protein adaptive and co-adaptive evolution at both species and population levels \
