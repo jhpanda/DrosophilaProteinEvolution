@@ -4,11 +4,11 @@ Scripts and files in this repo:
 1. AlternativeGenomes \
   scripts to generate alternative genomes or coding sequences based on SNP information, scripts take genome and VCF files as input
 2. PPI-sites \
-  scripts and data to simulate evolutionary rates of protein sites involved in PPI \
+  scripts and data to simulate evolutionary rates of protein sites involved in PPI 
 3. LIG-sites \
-  scripts and data to simulate evolutionary rates of protein sites involved in LIG binding \
+  scripts and data to simulate evolutionary rates of protein sites involved in LIG binding 
 4. pyMKT
-  scripts to do classic MKT test based on alternative CDS as input \
+  scripts to do classic MKT test based on alternative CDS as input 
 5. Supplementary files for the paper \
 6. asymMKfit.py \
   script to do asymptotic MK test \
